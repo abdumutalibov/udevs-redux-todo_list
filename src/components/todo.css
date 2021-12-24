@@ -1,0 +1,12 @@
+.X{
+position: absolute;
+    top: 6px;
+    right: 40px;
+    
+    /* flex-direction: column; */
+    /* background-color: aqua; */
+    /* margin-left: 50px; */
+}
+.box{
+    position: relative;
+}
